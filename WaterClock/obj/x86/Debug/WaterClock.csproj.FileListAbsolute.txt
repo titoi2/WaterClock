@@ -1,0 +1,14 @@
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\bin\Debug\WaterClock.exe
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\bin\Debug\WaterClock.pdb
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\obj\x86\Debug\WaterClock.Form1.resources
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\obj\x86\Debug\WaterClock.Properties.Resources.resources
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\obj\x86\Debug\WaterClock.csproj.GenerateResource.Cache
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\obj\x86\Debug\WaterClock.exe
+C:\Users\titoi2\AppData\Local\Temporary Projects\WaterClock\obj\x86\Debug\WaterClock.pdb
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\obj\x86\Debug\WaterClock.exe
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\obj\x86\Debug\WaterClock.pdb
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\bin\Debug\WaterClock.exe
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\bin\Debug\WaterClock.pdb
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\obj\x86\Debug\WaterClock.Form1.resources
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\obj\x86\Debug\WaterClock.Properties.Resources.resources
+C:\Users\titoi2\documents\visual studio 2010\Projects\WaterClock\WaterClock\obj\x86\Debug\WaterClock.csproj.GenerateResource.Cache
